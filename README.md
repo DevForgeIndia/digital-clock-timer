@@ -7,6 +7,7 @@ A fully responsive and feature-rich Digital Clock App built using **HTML**, **CS
 ## 📸 Preview
 
 ![Preview Screenshot](preview.png)
+![Mobile Screenshot](mobile_preview.png)
 
 ---
 
@@ -27,6 +28,13 @@ A fully responsive and feature-rich Digital Clock App built using **HTML**, **CS
 - HTML5
 - CSS3 (Neon & Flip Clock Styling)
 - Vanilla JavaScript (DOM, Events, setInterval, localStorage)
+
+---
+
+## 🚀 Live Demo
+
+[👉 Click here to try it out](https://devforgeindia.github.io/digital-clock-timer/)
+[👉 Watch the YouTube Tutorial](https://youtu.be/Cxq5CphMN8I)
 
 ---
 
