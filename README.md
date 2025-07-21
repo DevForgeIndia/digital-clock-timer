@@ -2,6 +2,14 @@
 
 A fully responsive and feature-rich Digital Clock App built using **HTML**, **CSS**, and **JavaScript**.
 
+---
+
+## 📸 Preview
+
+![Preview Screenshot](preview.png)
+
+---
+
 ## 🔥 Features
 
 - ✅ Real-time Flip-Style Digital Clock (12hr/24hr toggle)
@@ -27,8 +35,8 @@ A fully responsive and feature-rich Digital Clock App built using **HTML**, **CS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/js-clock-project.git
-cd js-clock-project
+git clone https://github.com/DevForgeIndia/digital-clock-timer.git
+cd digital-clock-timer
 ```
 
 ### 2. Open in Browser
@@ -37,16 +45,10 @@ Just open `index.html` in your browser. No build tools or setup required.
 
 ---
 
-## 📸 Preview
-
-![Preview Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
-
----
-
 ## 📁 Project Structure
 
 ```
-/js-clock-project
+/digital-clock-timer
 ├── index.html
 ├── style.css
 └── script.js
@@ -68,6 +70,10 @@ Feel free to fork the repo and submit pull requests. Suggestions welcome!
 
 ---
 
-## 📜 License
+## 🙌 Support
 
-MIT License © 2025 [Your Name or DevForge]
+If you like this project, consider ⭐ starring the repo and subscribing on YouTube!
+
+---
+
+Made with ❤️ by [DevForge India](https://www.youtube.com/@DevForge-India)
