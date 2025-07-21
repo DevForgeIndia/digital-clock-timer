@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock & Timer - DevForge India</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+    
+    <div class="container">
+        <div class="top-bar">
+            <h1 class="neon-text">TimeMaster</h1>
+            <button id="toggleTheme">☀️</button>
+        </div>
+
+        <div class="clock-section">
+            <div id="digitalClock" class="flip-clock">
+            </div>
+            <button id="toggleFormat">Switch to 24Hr</button>
+        </div>
+
+        <div class="timer-section">
+            <h2>Countdown Timer</h2>
+            <div>
+                <input type="number" id="minutes" placeholder="Minutes" >
+                <button id="startTimer">Start Timer</button>
+            </div>
+            <div id="countdownDisplay" class="neon-text"></div>
+        </div>
+
+        <div class="alarm-section">
+            <h2>Set Alarms</h2>
+            <div>
+                <input type="time" id="alarmTime" >
+                <button id="setAlarm">Set Alarm</button>
+            </div>
+            <ul id="alarmsList">
+            </ul>
+        </div>
+
+        <button id="stopAlarm" class="hidden">🛑 Stop Alarm</button>
+    </div>
+
+    <audio id="alarmAudio" loop src="https://actions.google.com/sounds/v1/alarms/alarm_clock.ogg"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
