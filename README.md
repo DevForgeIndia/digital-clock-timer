@@ -7,6 +7,7 @@ A fully responsive and feature-rich Digital Clock App built using **HTML**, **CS
 ## 📸 Preview
 
 ![Preview Screenshot](preview.png)
+
 ![Mobile Screenshot](mobile_preview.png)
 
 ---
