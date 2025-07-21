@@ -34,8 +34,8 @@ A fully responsive and feature-rich Digital Clock App built using **HTML**, **CS
 
 ## 🚀 Live Demo
 
-[👉 Click here to try it out](https://devforgeindia.github.io/digital-clock-timer/)
-[👉 Watch the YouTube Tutorial](https://youtu.be/Cxq5CphMN8I)
+👉 [Click here to try it out](https://devforgeindia.github.io/digital-clock-timer/)
+👉 [Watch the YouTube Tutorial](https://youtu.be/Cxq5CphMN8I)
 
 ---
 
